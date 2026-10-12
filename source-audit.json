@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-12",
+  "basis": "官方整合文本及頁內修訂來源對照",
+  "articles": 354,
+  "numbered_articles": 350,
+  "insertions": [
+    "68-A",
+    "153-A",
+    "164-A",
+    "169-A",
+    "170-A"
+  ],
+  "repealed_numbered_articles": [
+    213,
+    262,
+    289,
+    290
+  ],
+  "partial_repeal": {
+    "146": "第2款"
+  },
+  "source": "https://bo.dsaj.gov.mo/bo/i/95/46/codpencn/codpen0001.asp",
+  "source_sha256": "bedfea5d9ab0c3256c4d4db1894a30ff5f10e5a15e6540c9bed6b0832e2150d5",
+  "scope": "刑法典；相關特別法只列學習入口，不將其全部納入題庫。",
+  "verification": "核對來源列明的變更及廢止；不代表專業法律審定或完整特別法彙編。"
+}
